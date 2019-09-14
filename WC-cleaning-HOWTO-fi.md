@@ -1,6 +1,7 @@
 # WC Cleaning HOWTO :registered:
 
-WC-aine: yleispesuaine   Domestos: Domestos
+WC-aine: yleispesuaine   
+Pöntönpesuaine: Domestos
 
 Tässä järjestyksessä:
 - [ ] :toilet: Vedä pönttö :poop: 
