@@ -27,5 +27,6 @@ WC-aine: yleispesuaine   Domestos: Domestos
 - [ ] :shower:	Suihkuta peiliin ikkunasuihke ja pyyhi kuivalla ikkunaluutulla
 - [ ] :mag: Tuo matto lattiaan
 - [ ] :mag: Laita kannet takaisin
-- [ ] Enjoy :purple_heart:
+
+Enjoy :purple_heart:
 
