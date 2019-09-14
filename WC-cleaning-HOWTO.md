@@ -28,3 +28,4 @@ WC-aine: yleispesuaine   Domestos: Domestos
 - [ ] :mag: Tuo matto lattiaan
 - [ ] :mag: Laita kannet takaisin
 - [ ] Enjoy :purple_heart:
+
