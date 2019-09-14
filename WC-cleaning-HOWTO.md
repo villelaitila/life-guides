@@ -4,7 +4,8 @@ TODO: Fix Language
 
 WC-aine: yleispesuaine   Domestos: Domestos
 
-- [ ] :no_mobile_phones:
+Execute in this order:
+- [ ] :no_mobile_phones: Mobile phone free zone.
 - [ ] :sparkles: Carpets out
 - [ ] :toilet: flush to get rid off :poop: 
 - [ ] :runner: Take trash bin out
