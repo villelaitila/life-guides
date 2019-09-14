@@ -25,13 +25,12 @@ Ja pöntön jälkeen:
     * :mag: lavuaari ulkoa päin
     * :mag: kaappien kahvat
     * :sweat_drops: ... ja huuhtele luutu
-
 - [ ] :sparkles: Pyyhi luutulla roskikset ulkoa päin
 - [ ] :shower: Suihkuta wc-ainetta lattialle, luutua lattialuutulla.
     * :sweat_drops: Pese lattialuutu kodinhoitohuoneessa
-- [ ] :mag: Vaihda pyyhkeet
+- [ ] :runner: Vaihda pyyhkeet
 - [ ] :foggy: Suihkuta peiliin ikkunasuihke ja pyyhi kuivalla ikkunaluutulla
-- [ ] :mag: Tuo matto lattiaan
+- [ ] :runner: Tuo matto lattiaan
 - [ ] :mag: Laita kannet takaisin :toilet:
 
 Enjoy :purple_heart:
