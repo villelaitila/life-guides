@@ -8,7 +8,7 @@ Tässä järjestyksessä:
 - [ ] :sparkles: Matto ulos
 - [ ] :runner: Roskat ulos
 - [ ] :sweat_drops: Kaada Domestos pönttöön :toilet:
-- [ ] :toilet: Harjaa pöntön kannet
+- [ ] :toilet: Harjaa pönttö :collision: :heavy_exclamation_mark:
 - [ ] :toilet: Irrota pöntön kannet, 
     - [ ] Harjaa ne Domestokseen kastetulla allasharjalla lavuaarin päällä
     - [ ] :sweat_drops: Huuhtele kannet huolella
