@@ -1,4 +1,4 @@
-# WC Cleaning HOWTO :registered:
+# Toilet Cleaning HOWTO :registered:
 
 
 
