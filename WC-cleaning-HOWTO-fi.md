@@ -10,7 +10,7 @@ Tässä järjestyksessä:
 - [ ] :sweat_drops: Kaada Domestos pönttöön :toilet:
 - [ ] :toilet: Harjaa pönttö :collision: :heavy_exclamation_mark: sisäpuoliselta alueelta
 - [ ] :toilet: Pese pöntön kannet
-    * Irroita kannet (jos irroitettavissa) ja harjaa ne Domestokseen kastetulla allasharjalla lavuaarin päällä
+    * Irroita kannet (jos irroitettavissa) ja harjaa ne Domestokseen kastetulla allasharjalla lavuaarin päällä. Ainetta ei tarvitse käyttää kuin aivan vähän.
     * :sweat_drops: Huuhtele kannet huolella
     * :collision: Laita kannet kuivumaan seinää vasten lattialle
 - [ ] :toilet: Pyyhi pönttö pönttöluutulla ja wc-aineella
